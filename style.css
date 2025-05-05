@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+.main{
+  width: 1400px;
+  margin: 0 auto;
+  padding: 0 325px;
+}
+.main-h1{
+  text-align: center;
+}
+.events{
+  margin: 0 auto;
+}
+.dark {
+    background: #000;
+    color: #fff;
+
+
+
+  }
+  
+  .light {
+    background: #ffffff;
+    color: #000;
+
+  }
+  .theme-btn{
+    width: 38;
+    height: 38;
+    left: 691px;
+    border-radius: 5px;
+    background: #6C63FF;
+  }
+.list-item{
+font-family: Kanit;
+font-weight: 500;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+align-content: center;
+width: 420px;
+height: 50px;
+border: 2px solid blue;
+}
+#send{
+  background: #6C63FF;
+  width: 64px;
+  height: 38px;
+  gap: 10px;
+  border-radius: 5px;
+  padding: 10px;
+
+}
